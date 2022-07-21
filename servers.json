@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
+    },
+    {
+	"id": "duel",
+        "name": "Duel Network",
+        "addresses": [
+            "duel.land"
+        ]
     }
 ]
