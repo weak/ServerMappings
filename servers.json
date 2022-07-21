@@ -1517,6 +1517,13 @@
         ]
     },
     {
+		    "id": "duel",
+        "name": "Duel Network",
+        "addresses": [
+            "duel.land"
+        ]
+    },
+    {
         "id": "revenge",
         "name": "Revenge Network",
         "addresses": [
